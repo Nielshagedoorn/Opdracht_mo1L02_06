@@ -1,0 +1,28 @@
+body {
+color: #000099;
+background-color: #e6e6ff
+}
+body {
+font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+.border1 {
+   border: 5px solid #0000ff;
+   font-size: 16px;
+}
+
+.border2 {
+    border: 3px solid #8080FF;
+    border-style: dotted;
+    font-size: 20px ;
+}
+
+#blue-background {
+    background-color:#8080FF ;
+    font-size: 25px;
+    font-style: oblique
+   }
+.quote {
+    font-size: 48px; 
+    font-style: oblique
+}
